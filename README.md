@@ -45,7 +45,8 @@ I enjoy combining **product strategy**, **social media growth**, and **programmi
 * Analytics & Insights
 
 ---
-🚀 Tech Stack
+
+## 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
@@ -55,7 +56,7 @@ I enjoy combining **product strategy**, **social media growth**, and **programmi
 
 ---
 
-📌 Featured Interests
+## 📌 Featured Interests
 
 * 🤖 Artificial Intelligence
 * 📊 Product Analytics
@@ -64,17 +65,28 @@ I enjoy combining **product strategy**, **social media growth**, and **programmi
 * ⚙️ Automation Projects
 * 🚀 Startup Ideas
 
-🌐 Connect With Me
+---
 
-[![LinkedIn](https://www.linkedin.com/in/rishi-hardev-choudhary)
-[![Instagram](https://www.instagram.com/rimusic__?igsh=OWl0enh4ajU1cmRu)]
+## 📊 GitHub Stats
+
+![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME\&layout=compact\&theme=tokyonight)
 
 ---
 
-✨ Quote
+## 🌐 Connect With Me
+
+[![LinkedIn](https://www.linkedin.com/in/rishi-hardev-choudhary)](YOUR-LINKEDIN-LINK)
+[![Instagram](https://www.instagram.com/rimusic__)](YOUR-INSTAGRAM-LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github\&logoColor=white)](YOUR-GITHUB-LINK)
+
+---
+
+## ✨ Quote
 
 > “Great products are built where technology, creativity, and user needs meet.”
 
 ---
 
-🚀 Build • Innovate • Grow • Repeat
+### 🚀 Build • Innovate • Grow • Repeat
