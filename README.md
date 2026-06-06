@@ -67,18 +67,10 @@ I enjoy combining **product strategy**, **social media growth**, and **programmi
 
 ---
 
-## 📊 GitHub Stats
-
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/rishi-hardev-choudhary)](YOUR-LINKEDIN-LINK)
-[![Instagram](https://www.instagram.com/rimusic__)](YOUR-INSTAGRAM-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rishi-hardev-choudhary)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/rimusic__)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github\&logoColor=white)](YOUR-GITHUB-LINK)
 
 ---
