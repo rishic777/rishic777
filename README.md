@@ -71,7 +71,7 @@ I enjoy combining **product strategy**, **social media growth**, and **programmi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rishi-hardev-choudhary)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/rimusic__)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github\&logoColor=white)]([YOUR-GITHUB-LINK](https://github.com/rishic777)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rishic777)
 
 ---
 
